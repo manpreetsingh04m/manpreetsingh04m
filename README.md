@@ -1,5 +1,5 @@
 # 💫 About Me :
-- 👋 Hi, I’m <b>@ManpreetSingh</b>
+- 👋 Hi, I’m <b>@ManpreetSinghArora</b>.
 - 🧑‍💻 <b>Full Stack Developer || Frontend Developer || Backend Developer</b>
 - 📨 <b>Contact me</b> - <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ms2404mk@gmail.com">Click Here </a>
 
